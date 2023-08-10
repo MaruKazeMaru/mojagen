@@ -1,0 +1,2 @@
+# mojagen
+mojamoja generator
