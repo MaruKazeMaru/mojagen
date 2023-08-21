@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# SPDX-FileCopyrightText: 2023 Kazemaru
+# SPDX-License-Identifer: MIT
+
 import numpy as np
 from numpy import ndarray
 from curve import curve
